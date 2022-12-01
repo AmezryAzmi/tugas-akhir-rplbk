@@ -44,7 +44,6 @@ export default function CreateQuiz() {
 
   return (
     <Template title="All Team">
-
       {/* teams */}
       <div className="mt-4">
         {teams.map((obj, index) => (
